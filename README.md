@@ -30,7 +30,7 @@ From lightweight browsers to AI-driven tools, every project reflects **disciplin
 ## 🚀 Featured Projects
 | Project | Description |
 |----------|-------------|
-| 🐅 **Shrine Browser Lite** | A modern lightweight browser powered by PyQt6 with dynamic aura system |
+| 🐅 **Shrine Browser Lite** | A modern lightweight browser powered by PySide6 with dynamic aura system |
 | 📝 **Macan Notes Pro** | A powerful note app with theme customization and real-time performance |
 | 🎧 **Macan Audio Player** | High-performance media player built with native optimization |
 | 📘 **Macan Reader** | Ultra-fast PDF viewer using PyPDFium2 engine |
